@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>test</h1>
+    <h1>Second merge</h1>
   </div>
 </template>
 
