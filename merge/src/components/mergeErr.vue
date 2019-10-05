@@ -1,11 +1,8 @@
 <template>
   <div>
-    <h1>
-      Error
-      add Error
-      add Error first
-      lol jest
-    </h1>
+    <h2>
+      Правка второго файла
+    </h2>
   </div>
 </template>
 
