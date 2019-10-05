@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-      Error
+      Правка первого файла
     </h1>
   </div>
 </template>
