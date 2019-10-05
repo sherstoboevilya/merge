@@ -2,6 +2,9 @@
   <div>
     <h1>
       Error
+      add Error
+      add Error first
+      lol jest
     </h1>
   </div>
 </template>
