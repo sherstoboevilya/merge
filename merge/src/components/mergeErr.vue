@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2>правка второго компонента</h2>
+    <h2>second</h2>
   </div>
 </template>
 
