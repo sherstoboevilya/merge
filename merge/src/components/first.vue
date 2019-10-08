@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>second</h1>
+    <h1>check ssh key</h1>
   </div>
 </template>
 
